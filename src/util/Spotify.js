@@ -1,6 +1,6 @@
 let token;
 const client_id = 'dd0a41ef2d254a1ca4797a2b97d3c0bb';
-const redirect_uri = 'http://localhost:3000/';
+const redirect_uri = 'https://silly-sorbet-d1b676.netlify.app';
 const scope = 'playlist-modify-public';
 const urlBase = 'https://api.spotify.com/v1';
 
