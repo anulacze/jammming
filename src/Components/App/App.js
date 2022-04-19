@@ -1,7 +1,7 @@
 import './App.css';
 import React from 'react';
 import {SearchBar} from '../SearchBar/SearchBar';
-import { SearchResults, X } from '../SearchResults/SearchResults';
+import { SearchResults } from '../SearchResults/SearchResults';
 import { Playlist } from '../Playlist/Playlist';
 import { Spotify } from '../../util/Spotify';
 

@@ -1,5 +1,3 @@
-import { SearchBar } from "../Components/SearchBar/SearchBar";
-
 let token;
 const client_id = 'dd0a41ef2d254a1ca4797a2b97d3c0bb';
 const redirect_uri = 'http://localhost:3000/';
